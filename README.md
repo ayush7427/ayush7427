@@ -1,5 +1,5 @@
 
-👀 About Me
+👀 About Me <br><br>
 Hi there! I'm Ayush, a passionate Fullstack Developer with expertise in building scalable web applications. I have experience with both front-end and back-end technologies and enjoy working on projects that make a difference.
 
 🌱 I’m currently learning Node.js. <br>
