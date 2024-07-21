@@ -16,13 +16,12 @@ Languages: Node.js <br>
 Frameworks: Express.js <br>
 Databases: MongoDB,  MySQL <br>
 DevOps & Tools <br>
-Version Control: Git, GitHub <br>
-Projects <br>
+Version Control: Git, GitHub <br><br><br>
+Projects <br><br>
 Project 1: Blog Master app <br>
  I undertook an exciting mega project by creating the "Blog Master app" using the powerful backend-as-a-service platform, Appwrite. <br>
  link | (https://blog-master05.vercel.app/)
-<br><br><br>
-
+<br><br>
 Project 2: E commerce Website <br>
 A brief description of Project 2, highlighting its purpose and key features.
 <br><br><br>
