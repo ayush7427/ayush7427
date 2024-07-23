@@ -5,8 +5,8 @@ Hi there! I'm Ayush, a passionate Fullstack Developer with expertise in building
 🌱 I’m currently learning Node.js. <br>
 💬 Ask me about JavaScript, React, Node.js, and Tailwind CSS.<br>
 📫 How to reach me: coming soon<br>
-📝 LinkedIn | (https://www.linkedin.com/in/ayush-rana%F0%9F%8C%9F-980baa23b/)<br>
-Technologies & Tools<br><br><br>
+📝 LinkedIn | (https://www.linkedin.com/in/ayush-rana%F0%9F%8C%9F-980baa23b/)<br><br>
+Technologies & Tools<br><br>
 Frontend<br>
 Languages: HTML, CSS, JavaScript<br>
 Frameworks & Libraries: React, Redux<br>
